@@ -1,4 +1,5 @@
-## Hi there 👋 I am Neelesh kumar :- AI ML + web developer. Custom AI Model building, training and usage.
+## Hi there 👋 I am Neelesh kumar :- AI ML + web developer. 
+Custom AI Model building, training and usage.
 Visit my Portfolio: https://neelesh-portfolio-three.vercel.app/
 <!--
 **Neelesh-jatav/Neelesh-jatav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

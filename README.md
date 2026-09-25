@@ -1,6 +1,12 @@
 ## Hi there 👋 I am Neelesh kumar :- AI ML + web developer. 
 Custom AI Model building, training and usage.
 Visit my Portfolio: https://neelesh-portfolio-three.vercel.app/
+
+AI ML Project:- Live https://vigilaxai-f.onrender.com/
+github: https://github.com/Neelesh-jatav/VigilaxAI-F.git
+
+MERN Stack Project:- Live https://civic-connect-steel.vercel.app/
+github: https://github.com/Neelesh-jatav/CivicConnect.git
 <!--
 **Neelesh-jatav/Neelesh-jatav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
